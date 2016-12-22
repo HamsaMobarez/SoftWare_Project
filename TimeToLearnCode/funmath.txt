@@ -1,0 +1,10 @@
+m
+2
+Addition of 5 and 2 is......
+a-7
+b-8
+a
+Multiplication of 6 and 8 is.....
+a-66
+b-48
+b

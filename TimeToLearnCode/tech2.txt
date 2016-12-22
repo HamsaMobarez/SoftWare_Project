@@ -1,0 +1,14 @@
+m
+3
+The database that holds only one type of information is....
+a-File
+b-Field
+b
+'OS' Computer abbreviation usually means.....
+a-OperatingSystem
+b-OpenSoftware
+a
+MOV extension refers usually to....
+a-Animation/MovieFile
+b-ImageFile
+a

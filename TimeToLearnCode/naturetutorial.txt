@@ -1,0 +1,2 @@
+It a basic Science information true or false game 
+all you have to do is Enter one of the two choices true or false.
